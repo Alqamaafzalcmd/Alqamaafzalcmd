@@ -51,7 +51,8 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 
 <td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; padding: 20px;">
 
-<h3>📈 NexTrade</h3>
+<h3>  <img src="https://nextrade-dashboard-9c8u.onrender.com/logo.png" width="28" height="20" alt="NexTrade"/>
+  NexTradee</h3>
 
 <p><strong>Full-stack stock trading platform</strong></p>
 
