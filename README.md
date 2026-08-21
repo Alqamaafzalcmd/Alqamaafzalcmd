@@ -43,7 +43,6 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 </div>
 
 ---
-
 ## 🚀 Projects
 
 <table align="center">
@@ -51,8 +50,10 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 
 <td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; padding: 20px;">
 
-<h3>  <img src="https://nextrade-dashboard-9c8u.onrender.com/logo.png" width="28" height="20" alt="NexTrade"/>
-  NexTradee</h3>
+<h3>
+  <img src="https://nextrade-dashboard-9c8u.onrender.com/logo.png" width="28" height="20" alt="NexTrade"/>
+  NexTrade
+</h3>
 
 <p><strong>Full-stack stock trading platform</strong></p>
 
@@ -71,7 +72,7 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 <li>🔌 10+ RESTful API endpoints</li>
 </ul>
 
-<a href="https://github.com/Alqamaafzalcmd/NexTrade">
+<a href="https://github.com/Alqamaafzalcmd/Project-NexTrade">
 <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
@@ -100,7 +101,7 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 <li>🏗️ MVC-based RESTful backend</li>
 </ul>
 
-<a href="https://github.com/Alqamaafzalcmd/WanderStay">
+<a href="https://github.com/Alqamaafzalcmd/WanderStay-Project">
 <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
@@ -108,6 +109,7 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 
 </tr>
 </table>
+
 
 ---
 
