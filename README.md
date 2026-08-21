@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=header&text=Mohammad%20Alqama%20Afzal&fontSize=35&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38" width="100%" alt="Md Alqama Afzal"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=header&text=Md%20Alqama%20Afzal&fontSize=35&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38" width="100%" alt="Md Alqama Afzal"/>
  <i>Computer Science Undergraduate • Full-Stack Developer • Competitive Programmer</i>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Developer;Building+Real-World+Projects;Competitive+Programmer;DSA+Problem+Solver" alt="Typing animation"/>
