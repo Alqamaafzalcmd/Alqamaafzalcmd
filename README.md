@@ -18,10 +18,10 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 
 - 🎓 **B.E. CSE | 2024–2028**
 - 📊 **CGPA: 9.32 / 10.0**
-- 🧠 **600+ DSA problems solved**
-- <img src="https://cdn.simpleicons.org/codechef/BA8F63" width="16"/> **2★ CodeChef | Max Rating: 1404**
-- <img src="https://cdn.simpleicons.org/codeforces/58A6FF" width="16"/> **Codeforces | Max Rating: 979**
-- <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="16"/> **350+ LeetCode problems**
+- 🧠 **900+ DSA problems solved**
+- <img src="https://cdn.simpleicons.org/codechef/BA8F63" width="16"/> **2★ CodeChef | Max Rating: 1239**
+- <img src="https://cdn.simpleicons.org/codeforces/58A6FF" width="16"/> **Codeforces | Max Rating: 1417**
+- <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="16"/> **500+ LeetCode problems**
 - 🏆 **CodeChef Rank 839 / 14,000+**
 - 🚀 **Smart India Hackathon 2025 — Participant**
 - 🥇 **Elite Hack 1.0 — Top 250 / 900+ teams**
