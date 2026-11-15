@@ -124,7 +124,7 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 
 <h2>LeetCode</h2>
 
-**350+ Problems Solved**
+**500+ Problems Solved**
 
 `DSA` • `Algorithms` • `Problem Solving`
 
@@ -144,7 +144,7 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 
 **2⭐⭐ CodeChef**
 
-**Max Rating: 1404**
+**Max Rating: 1417**
 
 `Competitive Programming` • `Contests`
 
@@ -162,9 +162,9 @@ Computer Science & Engineering **3rd-year undergraduate** at **Sant Longowal Ins
 
 <h2>Codeforces</h2>
 
-**Newbie**
+**Pupil**
 
-**Max Rating: 979**
+**Max Rating: 1239**
 
 `Competitive Programming` • `Algorithms`
 
